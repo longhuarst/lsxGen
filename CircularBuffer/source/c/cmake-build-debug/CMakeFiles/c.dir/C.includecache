@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/coocx/PycharmProjects/lsxGen/CircularBuffer/source/c/FixedCircularBuffer.h
+stdbool.h
+-
+
+C:/Users/coocx/PycharmProjects/lsxGen/CircularBuffer/source/c/main.c
+FixedCircularBuffer.h
+C:/Users/coocx/PycharmProjects/lsxGen/CircularBuffer/source/c/FixedCircularBuffer.h
+stdio.h
+-
+
