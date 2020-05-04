@@ -8,7 +8,7 @@
 
 #include <stdbool.h>
 
-
+#define MEMCPY false
 #define TYPE int    //数据类型
 #define SIZE 1024   //数据长度
 #define TYPE_IDX int //游标类型
