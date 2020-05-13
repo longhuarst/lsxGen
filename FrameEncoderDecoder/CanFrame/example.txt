@@ -1,0 +1,36 @@
+{
+    SS00 : 16;
+    SS01 : 16;
+    SS02 : 16;
+    SS03 : 16;
+    SS04 : 16;
+    SS05 : 16;
+    SS06 : 16;
+    SS07 : 16;
+    SS0_INT : 16;
+
+    SS10 : 16;
+    SS11 : 16;
+    SS12 : 16;
+    SS13 : 16;
+    SS14 : 16;
+    SS15 : 16;
+    SS16 : 16;
+    SS17 : 16;
+    SS1_INT : 16;
+
+    AD0 : 8;
+    AD1 : 8;
+    AD2 : 8;
+    AD3 : 8;
+    AD4 : 8;
+    AD5 : 8;
+    AD6 : 8;
+
+    ResetType: 8;
+    ExceptionCounter: 8;
+    Can1ErrorCounter: 8;
+    Can2ErrorCounter: 8;
+    SoftResetCounter: 8;
+
+}
